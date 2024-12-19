@@ -1,4 +1,4 @@
-# CurrículoBot
+# CurrículoBot - Em desenvolvimento
 
 **CurrículoBot** é um sistema de automação para análise de currículos e envio de mensagens personalizadas via WhatsApp. Ele foi projetado para facilitar o processo de recrutamento, identificando candidatos com base em palavras-chave e enviando mensagens diretamente para seus números de contato extraídos dos currículos.
 
