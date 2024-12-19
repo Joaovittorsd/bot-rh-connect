@@ -31,13 +31,13 @@
 
 ## 📦 Estrutura do Projeto
 
-bot-rh-connect/ 
+`bot-rh-connect/ 
 ├── extrator_curriculos.py # Lê e analisa os currículos 
 ├── whatsapp_bot.py # Envia mensagens via WhatsApp Web 
 ├── main.py # Arquivo principal para executar o sistema 
 ├── curriculo/ # Pasta onde os PDFs dos currículos são armazenados
 ├── teste.py # Realiza os teste de leitura dos PDFs e apresenta no console
-├── README.md # Documentação do projeto
+├── README.md # Documentação do projeto`
 
 ## ⚙️ Como Configurar
 
