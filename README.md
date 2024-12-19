@@ -66,11 +66,12 @@ pip install PyPDF2 pywhatkit
     vaga = "Nome da Vaga"
 
 ### 3. Execute o Sistema:
-    • Execute o arquivo `main.py`:
-
 ```bash
 pip install PyPDF2 pywhatkit
 ```
+
+    • Execute o arquivo `main.py`:
+
 
 ### 4. Verifique o Console:
     • O console exibirá os currículos analisados, mensagens enviadas, e eventuais erros.
