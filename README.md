@@ -67,8 +67,15 @@ pip install PyPDF2 pywhatkit
 
 ### 3. Execute o Sistema:
     • Execute o arquivo `main.py`:
-    
+
 ```bash
 pip install PyPDF2 pywhatkit
 ```
 
+### 4. Verifique o Console:
+    • O console exibirá os currículos analisados, mensagens enviadas, e eventuais erros.
+
+## ⚠️ Observações
+
+    • Certifique-se de que o WhatsApp Web está acessível no navegador antes de executar o script.
+    • O `pywhatkit` abrirá uma nova aba do WhatsApp Web para cada mensagem enviada.
