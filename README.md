@@ -31,7 +31,7 @@
 
 ## 📦 Estrutura do Projeto
 
-bot-rh-connect/
+bot-rh-connect/<br>
 ├── extrator_curriculos.py # Lê e analisa os currículos<br>
 ├── whatsapp_bot.py # Envia mensagens via WhatsApp Web<br>
 ├── main.py # Arquivo principal para executar o sistema<br>
