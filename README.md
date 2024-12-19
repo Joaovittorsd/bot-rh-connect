@@ -62,8 +62,8 @@ pip install PyPDF2 pywhatkit
     • Edite o arquivo `main.py` para definir as palavras-chave e informações da vaga:
 
     pasta_curriculos = "curriculo"
-    palavras_chave = [".NET"]
-    vaga = "Desenvolvedor .NET"
+    palavras_chave = ["Python", "Django", "Machine Learning"]
+    vaga = "Nome da Vaga"
 
 ### 3. Execute o Sistema:
     • Execute o arquivo `main.py`:
